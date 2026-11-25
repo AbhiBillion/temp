@@ -1,0 +1,8 @@
+{
+  "name": "Remix Happiest Minds - R\u0026R Nomination Evaluator",
+  "description": "Reward \u0026 Recognition nomination evaluation and structured scoring system based on category, criteria, and citations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
